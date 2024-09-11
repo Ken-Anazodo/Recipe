@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/recipe/static/css/main.f855e6bc.css",
-    "main.js": "/recipe/static/js/main.f430685b.js",
-    "static/js/453.e9d4eb2f.chunk.js": "/recipe/static/js/453.e9d4eb2f.chunk.js",
-    "static/media/logo.svg": "/recipe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/recipe/index.html",
-    "main.f855e6bc.css.map": "/recipe/static/css/main.f855e6bc.css.map",
-    "main.f430685b.js.map": "/recipe/static/js/main.f430685b.js.map",
-    "453.e9d4eb2f.chunk.js.map": "/recipe/static/js/453.e9d4eb2f.chunk.js.map"
+    "main.css": "/Recipe/static/css/main.f855e6bc.css",
+    "main.js": "/Recipe/static/js/main.bea969f5.js",
+    "static/js/453.e9d4eb2f.chunk.js": "/Recipe/static/js/453.e9d4eb2f.chunk.js",
+    "static/media/logo.svg": "/Recipe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Recipe/index.html",
+    "main.f855e6bc.css.map": "/Recipe/static/css/main.f855e6bc.css.map",
+    "main.bea969f5.js.map": "/Recipe/static/js/main.bea969f5.js.map",
+    "453.e9d4eb2f.chunk.js.map": "/Recipe/static/js/453.e9d4eb2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f430685b.js"
+    "static/js/main.bea969f5.js"
   ]
 }
